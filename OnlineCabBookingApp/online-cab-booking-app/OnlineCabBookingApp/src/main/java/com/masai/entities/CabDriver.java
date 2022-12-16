@@ -1,7 +1,6 @@
 package com.masai.entities;
 
 import java.util.ArrayList;
-
 import java.util.List;
 
 import javax.persistence.CascadeType;
