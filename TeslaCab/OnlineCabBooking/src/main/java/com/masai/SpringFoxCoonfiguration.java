@@ -33,7 +33,7 @@ public class SpringFoxCoonfiguration {
 	private ApiInfo apiDetails() {
 		return new ApiInfo("Online Cab Booking Application", "Api for cab booking application", "1.0", "Free to use",
 				new springfox.documentation.service.Contact(null, null, null), "Github repo link",
-				"https://github.com/Aman103767/fretful-peace-608", Collections.emptyList());
+				"https://github.com/ShuklaSachin-2/belligerent-crayon-4690", Collections.emptyList());
 
 	}
 
