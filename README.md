@@ -10,7 +10,7 @@ admin who can also login and update their information as well as access the data
 ### Database Schema
 ![Database Schema](https://user-images.githubusercontent.com/54835356/201510762-ba22fda4-d738-433e-88b0-9de1190df9f2.jpg)
 
-### This is a collaborative project, completed by a team of 5 backend developers at Masai School.
+### This is a collaborative project, completed by a team of 4 backend developers at Masai School.
 
 # Collaborators
 
