@@ -52,7 +52,7 @@ public class AdminController {
 		return new ResponseEntity<Admin>(updatedCustomer,HttpStatus.OK);
 		
 	}
-	@DeleteMapping("/detete")
+	@DeleteMapping("/delete")
 	public ResponseEntity<String> deleteAdmin(@RequestParam Integer adminId, @RequestParam String key) throws AdminException{
 		
 		String DeleteAdmin = AService.deleteAdmin(adminId, key);
